@@ -1,5 +1,6 @@
 # Parallax Effect
 - [Link to website](https://sans-script.github.io/paralax-scrolling/)
+  
 A simple webpage featuring a parallax effect created using HTML and CSS.
 
 ## Table of Contents
