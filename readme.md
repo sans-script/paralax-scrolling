@@ -11,7 +11,7 @@ A simple webpage featuring a parallax effect created using HTML and CSS.
 
 ## Description
 
-This project that I learned on a youtube tutorial demonstrates a basic implementation of the parallax effect using HTML and CSS. The parallax effect is achieved by adjusting the position of different elements on the page in response to the user's scroll.
+This project that I learned on this [YouTube tutorial](https://youtu.be/TawH-AqHTXc?si=0WIjvXm_D3hDP45b) demonstrates a basic implementation of the parallax effect using HTML and CSS. The parallax effect is achieved by adjusting the position of different elements on the page in response to the user's scroll.
 
 ## Preview
 
